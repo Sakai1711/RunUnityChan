@@ -4,10 +4,7 @@
 ```
 .
 ├ RunUnityChan/         --- Unity project
-├ Material/             --- Materials for this project
-└ RunUnityChan_app/     --- Build for iOS
-    ├ Unity-iPhone.xcodeproj    --- application
-    └ :
+└ Material/             --- Materials for project
 ```
 
 <!-- ### How to install to iPhone -->
