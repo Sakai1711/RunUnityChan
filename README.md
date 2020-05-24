@@ -10,7 +10,8 @@
 <!-- ### How to install to iPhone -->
 
 
-<!-- ### How to play -->
+### How to play
+![RunUnityChan_SS](https://github.com/Sakai1711/image/blob/master/RunUnityChan/RunUnityChan_SS.png "RunUnityChan_SS")
 
 
 ### References
